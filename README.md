@@ -6,7 +6,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)&nbsp;
-![Csharp](https://img.shields.io/badge/-Csharp-141a20?style=flat&logo=c-sharp)&nbsp;
+![Csharp](https://img.shields.io/badge/-Csharp-141a20?style=flat&logo=c-sharp&logoColor=1D9923)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=typescript)&nbsp;
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-141a20?style=flat&logo=elasticsearch)&nbsp;
@@ -16,7 +16,7 @@
 
 
 ### 📝 Editors 
-![vim](https://img.shields.io/badge/-Vim-141a20?style=flat&logo=vim)&nbsp;
+![vim](https://img.shields.io/badge/-Vim-141a20?style=flat&logo=vim&logoColor=1D9923)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Jetbrains](https://img.shields.io/badge/-Jetbrains-141a20?style=flat&logo=jetbrains)
 

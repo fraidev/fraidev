@@ -1,8 +1,5 @@
 ## 👋 Hello, I'm Felipe Cardozo or just Frai
 
-- 💬 Find me on Twitter [@fraidev](https:twitter.com/fraidev)
-- 🌱 Interested in Go, Rust, F#, React and Funcional things.
-- ⚒️ Worked with Javascript, Typescript, C#, ElasticSearch, SQL, Angular.
 
 ### 🛠 &nbsp;Tech Stack
 ![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)&nbsp;
@@ -25,3 +22,5 @@
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
 ![macOS](https://img.shields.io/badge/-macOS-141a20?style=flat&logo=apple)&nbsp;
 ![Windows WSL2](https://img.shields.io/badge/-Windows_WSL2-141a20?style=flat&logo=windows-terminal&logoColor=777777)&nbsp;
+
+💬 Find me on Twitter [@fraidev](https:twitter.com/fraidev)

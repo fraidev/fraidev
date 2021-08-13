@@ -1,7 +1,5 @@
 ## 👋 Hello, I'm Felipe Cardozo or just Frai
 
-![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif)
-
 ### 🛠 &nbsp;Tech Stack
 ![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)&nbsp;
 ![Csharp](https://img.shields.io/badge/-Csharp-141a20?style=flat&logo=c-sharp&logoColor=1D9923)&nbsp;
@@ -23,5 +21,7 @@
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
 ![macOS](https://img.shields.io/badge/-macOS-141a20?style=flat&logo=apple)&nbsp;
 ![Windows WSL2](https://img.shields.io/badge/-Windows_WSL2-141a20?style=flat&logo=windows-terminal&logoColor=777777)&nbsp;
+
+![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif)
 
 💬 Find me on Twitter [@fraidev](https:twitter.com/fraidev)

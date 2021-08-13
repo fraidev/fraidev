@@ -1,5 +1,6 @@
 ## 👋 Hello, I'm Felipe Cardozo or just Frai
 
+![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif)
 
 ### 🛠 &nbsp;Tech Stack
 ![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)&nbsp;

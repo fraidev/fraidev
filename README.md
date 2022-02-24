@@ -22,6 +22,6 @@
 ![macOS](https://img.shields.io/badge/-macOS-141a20?style=flat&logo=apple)&nbsp;
 ![Windows WSL2](https://img.shields.io/badge/-Windows_WSL2-141a20?style=flat&logo=windows-terminal&logoColor=777777)&nbsp;
 
-![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif)
+<img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif" alt="drawing" width="100%"/>
 
 💬 Find me on Twitter [@fraidev](https:twitter.com/fraidev)

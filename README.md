@@ -15,17 +15,6 @@
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
 
 
-### 📝 Editors 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![vim](https://img.shields.io/badge/-Vim-141a20?style=flat&logo=vim&logoColor=1D9923)&nbsp;
-![Jetbrains](https://img.shields.io/badge/-Jetbrains-141a20?style=flat&logo=jetbrains&logoColor=777777)
-
-
-### 💻 Operational Systems
-![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
-![macOS](https://img.shields.io/badge/-macOS-141a20?style=flat&logo=apple)&nbsp;
-![Windows WSL2](https://img.shields.io/badge/-Windows_WSL2-141a20?style=flat&logo=windows-terminal&logoColor=777777)&nbsp;
-
 <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif" alt="drawing" width="100%"/>
 
 💬 Find me on Twitter [@fraidev](https:twitter.com/fraidev)

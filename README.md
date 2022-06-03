@@ -1,5 +1,9 @@
 ## 👋 Hello, I'm Felipe Cardozo or just Frai
 
+### 🌱 Learning!
+![Ocaml](https://img.shields.io/badge/-OCaml-141a20?style=flat&logo=OCaml)&nbsp;
+![Reason](https://img.shields.io/badge/-Reason-141a20?style=flat&logo=Reason)&nbsp;
+
 ### 🛠 &nbsp;Tech Stack
 ![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)&nbsp;
 ![Csharp](https://img.shields.io/badge/-Csharp-141a20?style=flat&logo=c-sharp&logoColor=1D9923)&nbsp;

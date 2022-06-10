@@ -11,6 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=typescript)&nbsp;
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-141a20?style=flat&logo=elasticsearch&logoColor=777777)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat&logo=PostgreSQL)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-141a20?style=flat&logo=Kubernetes)&nbsp;
 
 
 <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif" alt="drawing" width="100%"/>

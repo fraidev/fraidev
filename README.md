@@ -10,5 +10,3 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat&logo=PostgreSQL)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-141a20?style=flat&logo=Kubernetes)&nbsp;
 
-
-💬 Find me on Twitter [@fraidev](https:twitter.com/fraidev)
